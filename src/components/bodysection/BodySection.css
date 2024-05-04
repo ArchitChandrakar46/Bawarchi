@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  h1{
+    padding-top: 50px;
+    padding-left: 500px;
+    color:  rgb(250, 243, 245);
+  }
+  .TagLine {
+    color: #f5f0f0;
+    text-decoration: underline; /* Change to underline */
+    font-size: 1.2em; /* Increase text size */
+    padding-left: 500px;
+    font-weight: bold;
+  }
+  .TagLine2{
+    padding-left: 700px;
+    color: rgb(200, 241, 241);
+    text-decoration: underline;
+    font-weight: bold;
+
+  }
+  .btn-1{
+    font-size: 1.3em;
+    background-color: rgb(118, 71, 33);
+    color: white;
+    padding-top: 100px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left:30px;
+  }
+  .btn-2{
+    font-size: 1.3em;
+    background-color: rgb(14, 2, 2);
+    color: rgb(118, 71, 33);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .background {
+    background-image: url('./body1.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+  }
